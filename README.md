@@ -1,2 +1,1 @@
-# monix-bwm-proxy
-bwm-sensor
+#sensor-example
